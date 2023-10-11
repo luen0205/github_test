@@ -1,6 +1,7 @@
+/*
+
 #include "header.h"
 
-/*
 Array <string> katok;
 void add_data(string data) {
 	katok.push_back("None");
@@ -16,9 +17,10 @@ int main() {
 	add_data("지효");
 
 	printArray(katok);
-}*/
 
 
+
+/*
 
 Array <string> katok = { "다현", "정연", "쯔위", "사나", "지효" };
 
@@ -44,3 +46,5 @@ int main() {
 	insert_data(6, "문별");
 	printArray(katok);
 }
+
+*/

@@ -1,3 +1,5 @@
+/*
+
 #include "header.h"
 
 Array <int> px = { 7, -4, 0, 5 }; // = 7x^3 -4x^2 +0x^1 +5x^0
@@ -27,9 +29,11 @@ int calcPoly(int xVal, Array <int> p_x) {
 
 int main() {
 	string pStr = printPoly(px);
-	printIn(pStr);
+	println(pStr);
 	int xValue;
 	input(xValue, "X°ª --> ");
 	int pxValue = calcPoly(xValue, px);
-	printIn(pxValue);
+	println(pxValue);
 }
+
+*/
